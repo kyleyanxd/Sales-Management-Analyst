@@ -51,7 +51,8 @@ Established star-schema relationships between Fact and Dimension tables in Power
 
 📉 Power BI Dashboards & Visual Insights
 1. Sales Overview Dashboard
-![Sales Overview](SQL Queries/Customer Details.png)
+<img width="889" height="503" alt="Sales Report Dashboard" src="https://github.com/user-attachments/assets/a095b3cc-9a50-402e-88d5-57814146f7c5" />
+
 KPI Highlights: Tracks total revenue ($22M) vs. target budget ($21M) with variance percentage (+24.94% over current targets).
 
 Sales Trends: Tracks actual sales against monthly budget baselines.
@@ -59,6 +60,8 @@ Sales Trends: Tracks actual sales against monthly budget baselines.
 Product Breakdown: Donut chart highlighting Bikes as the primary revenue driver (~95.3%).
 
 2. Customer Details Dashboard
+<img width="867" height="485" alt="Customer Details" src="https://github.com/user-attachments/assets/9a1eba3c-d272-4489-9fca-566fc5bade6a" />
+
 Customer Leaderboard: Visualizes the Top 10 revenue-generating customers (led by Jordan Turner).
 
 Geographic Mapping: Displays customer density across global sales regions.
@@ -66,6 +69,8 @@ Geographic Mapping: Displays customer density across global sales regions.
 Granular Matrix: Interactive table showing month-by-month spending patterns per customer.
 
 3. Product Details Dashboard
+<img width="865" height="477" alt="product Details" src="https://github.com/user-attachments/assets/afa6a044-2bd4-41aa-ad1a-2e994b5a8edc" />
+
 Top Performers: Ranks top-selling product models (featuring Mountain-200 and Road-250 lines).
 
 Monthly Demand Matrix: Categorical breakdown table tracking product performance month-by-month to uncover seasonality.
