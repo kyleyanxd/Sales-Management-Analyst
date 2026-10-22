@@ -51,6 +51,7 @@ Established star-schema relationships between Fact and Dimension tables in Power
 
 📉 Power BI Dashboards & Visual Insights
 1. Sales Overview Dashboard
+![Sales Overview](SQL Queries/Customer Details.png)
 KPI Highlights: Tracks total revenue ($22M) vs. target budget ($21M) with variance percentage (+24.94% over current targets).
 
 Sales Trends: Tracks actual sales against monthly budget baselines.
