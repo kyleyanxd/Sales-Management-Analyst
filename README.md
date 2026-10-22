@@ -22,7 +22,7 @@ The executive team requested a transition from static spreadsheet reporting to i
 
 ## 🛠️ Data Architecture & Process Flow
 
-```text
+
 [ Microsoft SQL Database ] ➔ [ SQL Cleansing & Transformation ] ➔ [ CSV Export ] ➔ [ Data Modeling in Power BI ] ➔ [ Interactive Dashboards ]
 
 1. Database Setup & SQL Maintenance
